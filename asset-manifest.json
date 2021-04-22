@@ -1,0 +1,23 @@
+{
+  "main.css": "/about-me-test/static/css/main.465e6302.chunk.css",
+  "main.js": "/about-me-test/static/js/main.76722f1d.chunk.js",
+  "main.js.map": "/about-me-test/static/js/main.76722f1d.chunk.js.map",
+  "runtime~main.js": "/about-me-test/static/js/runtime~main.1e759b79.js",
+  "runtime~main.js.map": "/about-me-test/static/js/runtime~main.1e759b79.js.map",
+  "static/css/2.9fd9c8c3.chunk.css": "/about-me-test/static/css/2.9fd9c8c3.chunk.css",
+  "static/js/2.6ea6c0c5.chunk.js": "/about-me-test/static/js/2.6ea6c0c5.chunk.js",
+  "static/js/2.6ea6c0c5.chunk.js.map": "/about-me-test/static/js/2.6ea6c0c5.chunk.js.map",
+  "index.html": "/about-me-test/index.html",
+  "precache-manifest.b2b09f3fd2f273a3fb6a513d7ebe772c.js": "/about-me-test/precache-manifest.b2b09f3fd2f273a3fb6a513d7ebe772c.js",
+  "service-worker.js": "/about-me-test/service-worker.js",
+  "static/css/2.9fd9c8c3.chunk.css.map": "/about-me-test/static/css/2.9fd9c8c3.chunk.css.map",
+  "static/css/main.465e6302.chunk.css.map": "/about-me-test/static/css/main.465e6302.chunk.css.map",
+  "static/media/badge-header.svg": "/about-me-test/static/media/badge-header.973f5842.svg",
+  "static/media/desarrollo-web.png": "/about-me-test/static/media/desarrollo-web.f6e54d53.png",
+  "static/media/idea.svg": "/about-me-test/static/media/idea.5b68c4dc.svg",
+  "static/media/laravel.png": "/about-me-test/static/media/laravel.8bfc5015.png",
+  "static/media/mysql.png": "/about-me-test/static/media/mysql.07c28adf.png",
+  "static/media/postgresql.png": "/about-me-test/static/media/postgresql.ea92d658.png",
+  "static/media/react.png": "/about-me-test/static/media/react.c3ba82a5.png",
+  "static/media/BadgeNew.css": "/about-me-test/static/media/stars.1d17360a.svg"
+}
