@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a855903bf393281b812d",
-    "url": "/about-me-test/static/css/main.5c4f1020.chunk.css"
+    "revision": "a3e0a5f30172754f7df7",
+    "url": "/about-me-test/static/css/main.4a3cdf46.chunk.css"
   },
   {
-    "revision": "a855903bf393281b812d",
-    "url": "/about-me-test/static/js/main.a855903b.chunk.js"
+    "revision": "a3e0a5f30172754f7df7",
+    "url": "/about-me-test/static/js/main.a3e0a5f3.chunk.js"
   },
   {
     "revision": "1e759b79f5ea69d4f0fd",
     "url": "/about-me-test/static/js/runtime~main.1e759b79.js"
   },
   {
-    "revision": "290c807fe1f43ba9b3e2",
+    "revision": "2033003502e2a18f88db",
     "url": "/about-me-test/static/css/2.9fd9c8c3.chunk.css"
   },
   {
-    "revision": "290c807fe1f43ba9b3e2",
-    "url": "/about-me-test/static/js/2.290c807f.chunk.js"
+    "revision": "2033003502e2a18f88db",
+    "url": "/about-me-test/static/js/2.20330035.chunk.js"
   },
   {
     "revision": "f6e54d53710dcf3b62e35925800f0d9c",
@@ -48,6 +48,10 @@ self.__precacheManifest = [
     "url": "/about-me-test/static/media/javascript.15a4866e.png"
   },
   {
+    "revision": "44403f1eece67c892a0c6a6791da5ad4",
+    "url": "/about-me-test/static/media/php.44403f1e.svg"
+  },
+  {
     "revision": "ea92d6580dda0fbcf61a8ccb16e0d02a",
     "url": "/about-me-test/static/media/postgresql.ea92d658.png"
   },
@@ -56,11 +60,27 @@ self.__precacheManifest = [
     "url": "/about-me-test/static/media/mysql.07c28adf.png"
   },
   {
+    "revision": "3e54ed15b9cd877c5223f5ecf64579df",
+    "url": "/about-me-test/static/media/github.3e54ed15.png"
+  },
+  {
+    "revision": "63bc9e1a49c0c5e39ce3e01422c4cb20",
+    "url": "/about-me-test/static/media/postman.63bc9e1a.svg"
+  },
+  {
+    "revision": "0d0645ecdac621aa6fd903a4e664d4cb",
+    "url": "/about-me-test/static/media/phpstorm.0d0645ec.png"
+  },
+  {
+    "revision": "28d2fd31a112f9bc1faad68cf7ca857d",
+    "url": "/about-me-test/static/media/vsc.28d2fd31.svg"
+  },
+  {
     "revision": "973f5842f0c37eacb2eb491c62fc0032",
     "url": "/about-me-test/static/media/badge-header.973f5842.svg"
   },
   {
-    "revision": "8f52e5b6e5c5043689b443df52cc3c6e",
+    "revision": "4279c6e79186eea4904170a0408bad30",
     "url": "/about-me-test/index.html"
   }
 ];
